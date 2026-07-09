@@ -7,3 +7,5 @@ nav a{color:#7CFC00;margin:0 10px;text-decoration:none}
 .photo{width:300px;max-width:90%;margin:10px;border-radius:10px}
 input,textarea{width:300px;max-width:90%;padding:10px;margin:8px}
 section{padding:30px}
+ul { list-style: none; padding-left: 0; margin-left: 0;}
+li { list-style: none;}
