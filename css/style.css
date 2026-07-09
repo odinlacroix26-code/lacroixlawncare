@@ -9,3 +9,34 @@ input,textarea{width:300px;max-width:90%;padding:10px;margin:8px}
 section{padding:30px}
 ul { list-style: none; padding-left: 0; margin-left: 0;}
 li { list-style: none;}
+.hero{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:50px;
+flex-wrap:wrap;
+}
+.hero-left,
+.hero-center,
+.hero-right{
+flex:1;
+text-align:center;
+}
+.hero-truck,
+.hero-mower{
+width:100%;
+max-width:400px;
+}
+.green{
+color:#7CFC00;
+}
+.hero h1{
+font-size:60px;
+margin:0;
+}
+.hero h2{
+font-size:35px;
+}
+.hero p{
+font-size:20px;
+}
